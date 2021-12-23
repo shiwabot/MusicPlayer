@@ -49,7 +49,7 @@ from core.decorators import register, language, handle_error, only_admins
 
 REPO = f"""
 🤖 **Music Player**
-- Repo: [GitHub](https://github.com/AsmSafone/MusicPlayer)
+- Repo: [GitHub](https://github.com/Anieteam)
 - License: AGPL-3.0-or-later
 """
 
